@@ -1,2 +1,0 @@
-# Solar-
-Solar power prediction
